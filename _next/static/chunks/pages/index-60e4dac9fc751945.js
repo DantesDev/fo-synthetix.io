@@ -7052,19 +7052,6 @@
                     mt: "16px",
                     children: [
                       (0, h.jsx)(V(), {
-                        href: "/governance",
-                        children: (0, h.jsx)(n.z, {
-                          as: o.x,
-                          borderRadius: "base",
-                          px: "16px",
-                          py: "20px",
-                          width: "fit-content",
-                          size: { base: "lg", md: "md" },
-                          fontSize: "16px",
-                          children: "Learn More",
-                        }),
-                      }),
-                      (0, h.jsx)(V(), {
                         href: "",
                         target: "_blank",
                         children: (0, h.jsx)(n.z, {
